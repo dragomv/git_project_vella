@@ -1,0 +1,7 @@
+.bho .linea{
+  display: none;
+}
+
+p:hover~.linea{
+  display: block;
+}
